@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "https://github.com/sandeepatel01/Starter_Pack"
   },
-  "author": "Pranay Gupta",
+  "author": "PG",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/sandeepatel01/Starter_Pack"
   },
   "scripts": {
     "start": "react-scripts start",
